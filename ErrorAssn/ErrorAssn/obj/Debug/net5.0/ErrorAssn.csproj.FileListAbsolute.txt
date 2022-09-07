@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\bin\Debug\net5.0\ErrorAssn.exe
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\bin\Debug\net5.0\ErrorAssn.deps.json
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\bin\Debug\net5.0\ErrorAssn.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\bin\Debug\net5.0\ErrorAssn.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\bin\Debug\net5.0\ErrorAssn.dll
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\bin\Debug\net5.0\ref\ErrorAssn.dll
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\bin\Debug\net5.0\ErrorAssn.pdb
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.dll
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ref\ErrorAssn.dll
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.pdb
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.genruntimeconfig.cache
+C:\Users\Shubhankar Shubham\source\repos\ErrorAssn\ErrorAssn\obj\Debug\net5.0\ErrorAssn.csproj.AssemblyReference.cache

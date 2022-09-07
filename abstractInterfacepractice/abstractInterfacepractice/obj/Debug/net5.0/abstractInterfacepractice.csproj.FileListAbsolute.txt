@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\bin\Debug\net5.0\abstractInterfacepractice.exe
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\bin\Debug\net5.0\abstractInterfacepractice.deps.json
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\bin\Debug\net5.0\abstractInterfacepractice.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\bin\Debug\net5.0\abstractInterfacepractice.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\bin\Debug\net5.0\abstractInterfacepractice.dll
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\bin\Debug\net5.0\ref\abstractInterfacepractice.dll
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\bin\Debug\net5.0\abstractInterfacepractice.pdb
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.dll
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\ref\abstractInterfacepractice.dll
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.pdb
+C:\Users\Shubhankar Shubham\source\repos\abstractInterfacepractice\abstractInterfacepractice\obj\Debug\net5.0\abstractInterfacepractice.genruntimeconfig.cache

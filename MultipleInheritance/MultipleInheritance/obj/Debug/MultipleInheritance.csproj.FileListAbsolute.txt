@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+C:\Users\Shubhankar Shubham\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+C:\Users\Shubhankar Shubham\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+C:\Users\Shubhankar Shubham\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+C:\Users\Shubhankar Shubham\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\bin\Debug\net5.0\AbstractSecond.exe
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\bin\Debug\net5.0\AbstractSecond.deps.json
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\bin\Debug\net5.0\AbstractSecond.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\bin\Debug\net5.0\AbstractSecond.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\bin\Debug\net5.0\AbstractSecond.dll
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\bin\Debug\net5.0\ref\AbstractSecond.dll
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\bin\Debug\net5.0\AbstractSecond.pdb
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.dll
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\ref\AbstractSecond.dll
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.pdb
+C:\Users\Shubhankar Shubham\source\repos\AbstractSecond\AbstractSecond\obj\Debug\net5.0\AbstractSecond.genruntimeconfig.cache

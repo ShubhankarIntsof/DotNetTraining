@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\bin\Debug\net5.0\Demo Class.exe
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\bin\Debug\net5.0\Demo Class.deps.json
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\bin\Debug\net5.0\Demo Class.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\bin\Debug\net5.0\Demo Class.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\bin\Debug\net5.0\Demo Class.dll
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\bin\Debug\net5.0\ref\Demo Class.dll
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\bin\Debug\net5.0\Demo Class.pdb
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.dll
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\ref\Demo Class.dll
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.pdb
+C:\Users\Shubhankar Shubham\source\repos\Demo Class\Demo Class\obj\Debug\net5.0\Demo Class.genruntimeconfig.cache

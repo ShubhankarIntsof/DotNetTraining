@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\DemoBaseKeyword\DemoBaseKeyword\obj\Debug\DemoBaseKeyword.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\DemoBaseKeyword\DemoBaseKeyword\obj\Debug\DemoBaseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\DemoBaseKeyword\DemoBaseKeyword\bin\Debug\DemoBaseKeyword.exe.config
+C:\Users\Shubhankar Shubham\source\repos\DemoBaseKeyword\DemoBaseKeyword\bin\Debug\DemoBaseKeyword.exe
+C:\Users\Shubhankar Shubham\source\repos\DemoBaseKeyword\DemoBaseKeyword\bin\Debug\DemoBaseKeyword.pdb
+C:\Users\Shubhankar Shubham\source\repos\DemoBaseKeyword\DemoBaseKeyword\obj\Debug\DemoBaseKeyword.exe
+C:\Users\Shubhankar Shubham\source\repos\DemoBaseKeyword\DemoBaseKeyword\obj\Debug\DemoBaseKeyword.pdb

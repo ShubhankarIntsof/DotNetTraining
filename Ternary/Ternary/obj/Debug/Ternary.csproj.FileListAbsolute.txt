@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\Ternary\Ternary\bin\Debug\Ternary.exe.config
+C:\Users\Shubhankar Shubham\source\repos\Ternary\Ternary\bin\Debug\Ternary.exe
+C:\Users\Shubhankar Shubham\source\repos\Ternary\Ternary\bin\Debug\Ternary.pdb
+C:\Users\Shubhankar Shubham\source\repos\Ternary\Ternary\obj\Debug\Ternary.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\Ternary\Ternary\obj\Debug\Ternary.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\Ternary\Ternary\obj\Debug\Ternary.exe
+C:\Users\Shubhankar Shubham\source\repos\Ternary\Ternary\obj\Debug\Ternary.pdb

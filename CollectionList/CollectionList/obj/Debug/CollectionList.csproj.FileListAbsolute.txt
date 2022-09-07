@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\CollectionList\CollectionList\bin\Debug\CollectionList.exe.config
+C:\Users\Shubhankar Shubham\source\repos\CollectionList\CollectionList\bin\Debug\CollectionList.exe
+C:\Users\Shubhankar Shubham\source\repos\CollectionList\CollectionList\bin\Debug\CollectionList.pdb
+C:\Users\Shubhankar Shubham\source\repos\CollectionList\CollectionList\obj\Debug\CollectionList.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\CollectionList\CollectionList\obj\Debug\CollectionList.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\CollectionList\CollectionList\obj\Debug\CollectionList.exe
+C:\Users\Shubhankar Shubham\source\repos\CollectionList\CollectionList\obj\Debug\CollectionList.pdb

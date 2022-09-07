@@ -1,0 +1,6 @@
+C:\Users\Shubhankar Shubham\source\repos\WeekName\WeekName\bin\Debug\WeekName.exe.config
+C:\Users\Shubhankar Shubham\source\repos\WeekName\WeekName\bin\Debug\WeekName.exe
+C:\Users\Shubhankar Shubham\source\repos\WeekName\WeekName\bin\Debug\WeekName.pdb
+C:\Users\Shubhankar Shubham\source\repos\WeekName\WeekName\obj\Debug\WeekName.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\WeekName\WeekName\obj\Debug\WeekName.exe
+C:\Users\Shubhankar Shubham\source\repos\WeekName\WeekName\obj\Debug\WeekName.pdb

@@ -1,0 +1,15 @@
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.exe
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.deps.json
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net5.0\ref\MultiCastDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.pdb
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\ref\MultiCastDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.pdb
+C:\Users\Shubhankar Shubham\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.genruntimeconfig.cache

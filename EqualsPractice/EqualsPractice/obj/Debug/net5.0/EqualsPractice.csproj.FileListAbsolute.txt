@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\bin\Debug\net5.0\EqualsPractice.exe
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\bin\Debug\net5.0\EqualsPractice.deps.json
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\bin\Debug\net5.0\EqualsPractice.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\bin\Debug\net5.0\EqualsPractice.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\bin\Debug\net5.0\EqualsPractice.dll
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\bin\Debug\net5.0\ref\EqualsPractice.dll
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\bin\Debug\net5.0\EqualsPractice.pdb
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.dll
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\ref\EqualsPractice.dll
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.pdb
+C:\Users\Shubhankar Shubham\source\repos\EqualsPractice\EqualsPractice\obj\Debug\net5.0\EqualsPractice.genruntimeconfig.cache

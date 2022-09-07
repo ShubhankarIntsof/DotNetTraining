@@ -1,0 +1,15 @@
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\bin\Debug\net5.0\Assesment1Q6.exe
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\bin\Debug\net5.0\Assesment1Q6.deps.json
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\bin\Debug\net5.0\Assesment1Q6.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\bin\Debug\net5.0\Assesment1Q6.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\bin\Debug\net5.0\Assesment1Q6.dll
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\bin\Debug\net5.0\ref\Assesment1Q6.dll
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\bin\Debug\net5.0\Assesment1Q6.pdb
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\Assesment1Q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\Assesment1Q6.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\Assesment1Q6.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\Assesment1Q6.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\Assesment1Q6.dll
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\ref\Assesment1Q6.dll
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\Assesment1Q6.pdb
+C:\Users\Shubhankar Shubham\source\repos\Assesment1Q6\Assesment1Q6\obj\Debug\net5.0\Assesment1Q6.genruntimeconfig.cache

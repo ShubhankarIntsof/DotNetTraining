@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\bin\Debug\net5.0\MathsDemo.exe
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\bin\Debug\net5.0\MathsDemo.deps.json
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\bin\Debug\net5.0\MathsDemo.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\bin\Debug\net5.0\MathsDemo.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\bin\Debug\net5.0\MathsDemo.dll
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\bin\Debug\net5.0\ref\MathsDemo.dll
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\bin\Debug\net5.0\MathsDemo.pdb
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.dll
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\ref\MathsDemo.dll
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.pdb
+C:\Users\Shubhankar Shubham\source\repos\MathsDemo\MathsDemo\obj\Debug\net5.0\MathsDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\bin\Debug\net5.0\AnonymousDelegate.exe
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\bin\Debug\net5.0\AnonymousDelegate.deps.json
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\bin\Debug\net5.0\AnonymousDelegate.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\bin\Debug\net5.0\AnonymousDelegate.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\bin\Debug\net5.0\AnonymousDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\bin\Debug\net5.0\ref\AnonymousDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\bin\Debug\net5.0\AnonymousDelegate.pdb
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\ref\AnonymousDelegate.dll
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.pdb
+C:\Users\Shubhankar Shubham\source\repos\AnonymousDelegate\AnonymousDelegate\obj\Debug\net5.0\AnonymousDelegate.genruntimeconfig.cache

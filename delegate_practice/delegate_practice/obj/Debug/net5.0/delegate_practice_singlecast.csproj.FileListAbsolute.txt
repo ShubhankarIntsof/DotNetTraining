@@ -1,0 +1,15 @@
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\bin\Debug\net5.0\delegate_practice_singlecast.exe
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\bin\Debug\net5.0\delegate_practice_singlecast.deps.json
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\bin\Debug\net5.0\delegate_practice_singlecast.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\bin\Debug\net5.0\delegate_practice_singlecast.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\bin\Debug\net5.0\delegate_practice_singlecast.dll
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\bin\Debug\net5.0\ref\delegate_practice_singlecast.dll
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\bin\Debug\net5.0\delegate_practice_singlecast.pdb
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\delegate_practice_singlecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\delegate_practice_singlecast.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\delegate_practice_singlecast.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\delegate_practice_singlecast.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\delegate_practice_singlecast.dll
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\ref\delegate_practice_singlecast.dll
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\delegate_practice_singlecast.pdb
+C:\Users\Shubhankar Shubham\source\repos\delegate_practice\delegate_practice\obj\Debug\net5.0\delegate_practice_singlecast.genruntimeconfig.cache

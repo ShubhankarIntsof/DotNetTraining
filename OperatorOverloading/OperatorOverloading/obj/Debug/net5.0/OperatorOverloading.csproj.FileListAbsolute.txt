@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\ref\OperatorOverloading.dll
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+C:\Users\Shubhankar Shubham\source\repos\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache

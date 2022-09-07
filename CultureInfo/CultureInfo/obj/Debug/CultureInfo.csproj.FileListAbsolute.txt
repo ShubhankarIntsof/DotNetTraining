@@ -1,0 +1,2 @@
+C:\Users\Shubhankar Shubham\source\repos\CultureInfo\CultureInfo\obj\Debug\CultureInfo.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\CultureInfo\CultureInfo\obj\Debug\CultureInfo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\ConsoleCultureApp\ConsoleCultureApp\bin\Debug\ConsoleCultureApp.exe.config
+C:\Users\Shubhankar Shubham\source\repos\ConsoleCultureApp\ConsoleCultureApp\bin\Debug\ConsoleCultureApp.exe
+C:\Users\Shubhankar Shubham\source\repos\ConsoleCultureApp\ConsoleCultureApp\bin\Debug\ConsoleCultureApp.pdb
+C:\Users\Shubhankar Shubham\source\repos\ConsoleCultureApp\ConsoleCultureApp\obj\Debug\ConsoleCultureApp.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\ConsoleCultureApp\ConsoleCultureApp\obj\Debug\ConsoleCultureApp.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\ConsoleCultureApp\ConsoleCultureApp\obj\Debug\ConsoleCultureApp.exe
+C:\Users\Shubhankar Shubham\source\repos\ConsoleCultureApp\ConsoleCultureApp\obj\Debug\ConsoleCultureApp.pdb
