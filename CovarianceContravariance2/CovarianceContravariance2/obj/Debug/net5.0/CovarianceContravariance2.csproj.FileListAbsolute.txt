@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\bin\Debug\net5.0\CovarianceContravariance2.exe
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\bin\Debug\net5.0\CovarianceContravariance2.deps.json
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\bin\Debug\net5.0\CovarianceContravariance2.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\bin\Debug\net5.0\CovarianceContravariance2.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\bin\Debug\net5.0\CovarianceContravariance2.dll
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\bin\Debug\net5.0\ref\CovarianceContravariance2.dll
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\bin\Debug\net5.0\CovarianceContravariance2.pdb
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.dll
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\ref\CovarianceContravariance2.dll
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.pdb
+C:\Users\Shubhankar Shubham\source\repos\CovarianceContravariance2\CovarianceContravariance2\obj\Debug\net5.0\CovarianceContravariance2.genruntimeconfig.cache
