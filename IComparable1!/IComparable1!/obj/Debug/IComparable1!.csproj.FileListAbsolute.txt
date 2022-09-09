@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\IComparable1!\IComparable1!\obj\Debug\IComparable1!.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\IComparable1!\IComparable1!\obj\Debug\IComparable1!.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\IComparable1!\IComparable1!\bin\Debug\IComparable1!.exe.config
+C:\Users\Shubhankar Shubham\source\repos\IComparable1!\IComparable1!\bin\Debug\IComparable1!.exe
+C:\Users\Shubhankar Shubham\source\repos\IComparable1!\IComparable1!\bin\Debug\IComparable1!.pdb
+C:\Users\Shubhankar Shubham\source\repos\IComparable1!\IComparable1!\obj\Debug\IComparable1!.exe
+C:\Users\Shubhankar Shubham\source\repos\IComparable1!\IComparable1!\obj\Debug\IComparable1!.pdb

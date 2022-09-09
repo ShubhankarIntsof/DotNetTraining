@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MemoryManagement(NonDotNet)/1.0.0": {
+        "runtime": {
+          "MemoryManagement(NonDotNet).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MemoryManagement(NonDotNet)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\bin\Debug\net5.0\MemoryManagement(NonDotNet).exe
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\bin\Debug\net5.0\MemoryManagement(NonDotNet).deps.json
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\bin\Debug\net5.0\MemoryManagement(NonDotNet).runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\bin\Debug\net5.0\MemoryManagement(NonDotNet).runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\bin\Debug\net5.0\MemoryManagement(NonDotNet).dll
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\bin\Debug\net5.0\ref\MemoryManagement(NonDotNet).dll
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\bin\Debug\net5.0\MemoryManagement(NonDotNet).pdb
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).dll
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\ref\MemoryManagement(NonDotNet).dll
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).pdb
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement(NonDotNet)\MemoryManagement(NonDotNet)\obj\Debug\net5.0\MemoryManagement(NonDotNet).genruntimeconfig.cache

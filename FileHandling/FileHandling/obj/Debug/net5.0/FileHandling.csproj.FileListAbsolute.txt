@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\bin\Debug\net5.0\FileHandling.exe
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\bin\Debug\net5.0\FileHandling.deps.json
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\bin\Debug\net5.0\FileHandling.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\bin\Debug\net5.0\FileHandling.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\bin\Debug\net5.0\FileHandling.dll
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\bin\Debug\net5.0\ref\FileHandling.dll
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\bin\Debug\net5.0\FileHandling.pdb
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.dll
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\ref\FileHandling.dll
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.pdb
+C:\Users\Shubhankar Shubham\source\repos\FileHandling\FileHandling\obj\Debug\net5.0\FileHandling.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe.config
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.pdb
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.exe
+C:\Users\Shubhankar Shubham\source\repos\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.pdb

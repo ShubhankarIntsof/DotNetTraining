@@ -1,0 +1,9 @@
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\bin\Debug\BrowserSecond.exe.config
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\bin\Debug\BrowserSecond.exe
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\bin\Debug\BrowserSecond.pdb
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\obj\Debug\BrowserSecond.Form1.resources
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\obj\Debug\BrowserSecond.Properties.Resources.resources
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\obj\Debug\BrowserSecond.csproj.GenerateResource.cache
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\obj\Debug\BrowserSecond.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\obj\Debug\BrowserSecond.exe
+C:\Users\Shubhankar Shubham\source\repos\BrowserSecond\BrowserSecond\obj\Debug\BrowserSecond.pdb

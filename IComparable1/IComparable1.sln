@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable1", "IComparable1\IComparable1.csproj", "{B15D6F9A-75ED-4236-820F-7CCB5C78EBFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15D6F9A-75ED-4236-820F-7CCB5C78EBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15D6F9A-75ED-4236-820F-7CCB5C78EBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15D6F9A-75ED-4236-820F-7CCB5C78EBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15D6F9A-75ED-4236-820F-7CCB5C78EBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E960AF1F-B88D-412F-A2AF-EB4EAEEF77F3}
+	EndGlobalSection
+EndGlobal

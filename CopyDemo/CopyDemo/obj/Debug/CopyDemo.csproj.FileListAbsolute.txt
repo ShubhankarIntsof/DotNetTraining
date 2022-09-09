@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\CopyDemo\CopyDemo\bin\Debug\CopyDemo.exe.config
+C:\Users\Shubhankar Shubham\source\repos\CopyDemo\CopyDemo\bin\Debug\CopyDemo.exe
+C:\Users\Shubhankar Shubham\source\repos\CopyDemo\CopyDemo\bin\Debug\CopyDemo.pdb
+C:\Users\Shubhankar Shubham\source\repos\CopyDemo\CopyDemo\obj\Debug\CopyDemo.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\CopyDemo\CopyDemo\obj\Debug\CopyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\CopyDemo\CopyDemo\obj\Debug\CopyDemo.exe
+C:\Users\Shubhankar Shubham\source\repos\CopyDemo\CopyDemo\obj\Debug\CopyDemo.pdb

@@ -1,0 +1,14 @@
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\bin\Debug\MediaPlayerFirst.exe.config
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\bin\Debug\MediaPlayerFirst.exe
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\bin\Debug\MediaPlayerFirst.pdb
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\bin\Debug\Interop.WMPLib.dll
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\MediaPlayerFirst.csproj.ResolveComReference.cache
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\MediaPlayerFirst.Form1.resources
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\MediaPlayerFirst.Properties.Resources.resources
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\MediaPlayerFirst.csproj.GenerateResource.cache
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\MediaPlayerFirst.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\MediaPlayerFirst.exe
+C:\Users\Shubhankar Shubham\source\repos\MediaPlayerFirst\MediaPlayerFirst\obj\Debug\MediaPlayerFirst.pdb
