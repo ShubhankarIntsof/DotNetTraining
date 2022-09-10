@@ -91,7 +91,7 @@ namespace Calculator_1
 
         private void button_equals_Click(object sender, EventArgs e)
         {
-            //CalcDisplay.Text = num.ToString();
+            //CalcDisplay.Text = ans.ToString();
 
             Calculate(ope);
         }
@@ -106,7 +106,6 @@ namespace Calculator_1
         {
             num = float.Parse(CalcDisplay.Text);
             CalcDisplay.Clear();
-            CalcDisplay.Focus();
             ope = "Sub";
 
         }
@@ -115,7 +114,6 @@ namespace Calculator_1
         {
             num = float.Parse(CalcDisplay.Text);
             CalcDisplay.Clear();
-            CalcDisplay.Focus();
             ope = "Mul";
         }
 
@@ -123,15 +121,14 @@ namespace Calculator_1
         {
             num = float.Parse(CalcDisplay.Text);
             CalcDisplay.Clear();
-            CalcDisplay.Focus();
             ope = "Div";
         }
 
         private void button_Add_Click(object sender, EventArgs e)
         {
             num = float.Parse(CalcDisplay.Text);
+            //ans = ans +  float.Parse(CalcDisplay.Text);
             CalcDisplay.Clear();
-            CalcDisplay.Focus();
             ope = "Add";
 
 
