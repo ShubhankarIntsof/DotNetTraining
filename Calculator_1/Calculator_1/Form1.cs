@@ -12,7 +12,7 @@ namespace Calculator_1
 {
     public partial class FormCalculator : Form
     {
-        float num, ans;
+        float num, ans = 0;
         string ope;
         
         public FormCalculator()
@@ -105,6 +105,7 @@ namespace Calculator_1
         private void button_subtract_Click(object sender, EventArgs e)
         {
             num = float.Parse(CalcDisplay.Text);
+            //ans = ans - num;
             CalcDisplay.Clear();
             ope = "Sub";
 
@@ -113,6 +114,7 @@ namespace Calculator_1
         private void button_multiply_Click(object sender, EventArgs e)
         {
             num = float.Parse(CalcDisplay.Text);
+            //ans = ans * num;
             CalcDisplay.Clear();
             ope = "Mul";
         }
@@ -120,6 +122,7 @@ namespace Calculator_1
         private void button_Divide_Click(object sender, EventArgs e)
         {
             num = float.Parse(CalcDisplay.Text);
+            //ans = ans / num;
             CalcDisplay.Clear();
             ope = "Div";
         }
@@ -127,7 +130,7 @@ namespace Calculator_1
         private void button_Add_Click(object sender, EventArgs e)
         {
             num = float.Parse(CalcDisplay.Text);
-            //ans = ans +  float.Parse(CalcDisplay.Text);
+            //ans = ans + num;
             CalcDisplay.Clear();
             ope = "Add";
 
@@ -138,6 +141,7 @@ namespace Calculator_1
             if (O == "Add")
             {
                 ans = num + float.Parse(CalcDisplay.Text);
+                //ans = ans + float.Parse(CalcDisplay.Text);
                 CalcDisplay.Text = ans.ToString();
                 return;
 
