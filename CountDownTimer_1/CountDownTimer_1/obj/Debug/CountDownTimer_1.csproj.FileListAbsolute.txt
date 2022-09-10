@@ -1,0 +1,10 @@
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\bin\Debug\CountDownTimer_1.exe.config
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\bin\Debug\CountDownTimer_1.exe
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\bin\Debug\CountDownTimer_1.pdb
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\obj\Debug\CountDownTimer_1.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\obj\Debug\CountDownTimer_1.Properties.Resources.resources
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\obj\Debug\CountDownTimer_1.csproj.GenerateResource.cache
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\obj\Debug\CountDownTimer_1.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\obj\Debug\CountDownTimer_1.exe
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\obj\Debug\CountDownTimer_1.pdb
+C:\Users\Shubhankar Shubham\source\repos\CountDownTimer_1\CountDownTimer_1\obj\Debug\CountDownTimer_1.Form1.resources

@@ -9,6 +9,7 @@ namespace MemoryManagement_NonDotNet_
             Complex C = new Complex();
             C.SetValue(2, 4);
             C.Display();
+            
         }
     }
 }
