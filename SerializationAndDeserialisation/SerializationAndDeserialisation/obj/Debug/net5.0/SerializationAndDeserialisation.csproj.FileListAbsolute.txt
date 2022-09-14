@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\bin\Debug\net5.0\SerializationAndDeserialisation.exe
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\bin\Debug\net5.0\SerializationAndDeserialisation.deps.json
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\bin\Debug\net5.0\SerializationAndDeserialisation.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\bin\Debug\net5.0\SerializationAndDeserialisation.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\bin\Debug\net5.0\SerializationAndDeserialisation.dll
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\bin\Debug\net5.0\ref\SerializationAndDeserialisation.dll
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\bin\Debug\net5.0\SerializationAndDeserialisation.pdb
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.dll
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\ref\SerializationAndDeserialisation.dll
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.pdb
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialisation\SerializationAndDeserialisation\obj\Debug\net5.0\SerializationAndDeserialisation.genruntimeconfig.cache

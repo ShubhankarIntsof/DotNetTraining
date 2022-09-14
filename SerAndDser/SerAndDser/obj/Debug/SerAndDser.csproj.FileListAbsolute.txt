@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser\SerAndDser\bin\Debug\SerAndDser.exe.config
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser\SerAndDser\bin\Debug\SerAndDser.exe
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser\SerAndDser\bin\Debug\SerAndDser.pdb
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser\SerAndDser\obj\Debug\SerAndDser.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser\SerAndDser\obj\Debug\SerAndDser.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser\SerAndDser\obj\Debug\SerAndDser.exe
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser\SerAndDser\obj\Debug\SerAndDser.pdb

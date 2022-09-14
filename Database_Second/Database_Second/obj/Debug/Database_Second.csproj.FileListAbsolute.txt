@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\Database_Second\Database_Second\bin\Debug\Database_Second.exe.config
+C:\Users\Shubhankar Shubham\source\repos\Database_Second\Database_Second\bin\Debug\Database_Second.exe
+C:\Users\Shubhankar Shubham\source\repos\Database_Second\Database_Second\bin\Debug\Database_Second.pdb
+C:\Users\Shubhankar Shubham\source\repos\Database_Second\Database_Second\obj\Debug\Database_Second.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\Database_Second\Database_Second\obj\Debug\Database_Second.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\Database_Second\Database_Second\obj\Debug\Database_Second.exe
+C:\Users\Shubhankar Shubham\source\repos\Database_Second\Database_Second\obj\Debug\Database_Second.pdb

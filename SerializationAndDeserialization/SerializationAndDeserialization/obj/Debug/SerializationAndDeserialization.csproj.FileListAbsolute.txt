@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.exe.config
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.exe
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialization\SerializationAndDeserialization\bin\Debug\SerializationAndDeserialization.pdb
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.exe
+C:\Users\Shubhankar Shubham\source\repos\SerializationAndDeserialization\SerializationAndDeserialization\obj\Debug\SerializationAndDeserialization.pdb

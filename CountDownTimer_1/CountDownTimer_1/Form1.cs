@@ -9,11 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Timers;
 using System.Globalization;
+using System.Speech.Synthesis;
 
 namespace CountDownTimer_1
 {
     public partial class Form1 : Form
     {
+        SpeechSynthesizer speechSynthesizerObj;
         int cdtmr;
         int initial_;
 
@@ -56,12 +58,21 @@ namespace CountDownTimer_1
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            
             if (cdtmr > 0)
             {
                 cdtmr--;
                 TimeSpan time = TimeSpan.FromSeconds(cdtmr);
                 timeDisplay.Text = time.ToString(@"hh\:mm\:ss");
                 timeProgressBar.Value = initial_ - cdtmr;
+                
+                if(cdtmr < 11)
+                {
+                    speechSynthesizerObj = new SpeechSynthesizer();
+                    speechSynthesizerObj.SpeakAsync(cdtmr.ToString() + "Seconds");
+
+                }
+
             }
             else
             {
@@ -85,6 +96,7 @@ namespace CountDownTimer_1
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            //speechSynthesizerObj = new SpeechSynthesizer();
         }
     }
 }

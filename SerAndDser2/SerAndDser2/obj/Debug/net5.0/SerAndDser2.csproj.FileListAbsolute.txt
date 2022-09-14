@@ -1,0 +1,16 @@
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\bin\Debug\net5.0\SerAndDser2.exe
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\bin\Debug\net5.0\SerAndDser2.deps.json
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\bin\Debug\net5.0\SerAndDser2.runtimeconfig.json
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\bin\Debug\net5.0\SerAndDser2.runtimeconfig.dev.json
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\bin\Debug\net5.0\SerAndDser2.dll
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\bin\Debug\net5.0\ref\SerAndDser2.dll
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\bin\Debug\net5.0\SerAndDser2.pdb
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.AssemblyInfoInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.AssemblyInfo.cs
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.dll
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\ref\SerAndDser2.dll
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.pdb
+C:\Users\Shubhankar Shubham\source\repos\SerAndDser2\SerAndDser2\obj\Debug\net5.0\SerAndDser2.genruntimeconfig.cache

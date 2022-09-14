@@ -1,0 +1,10 @@
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\bin\Debug\ADO_Dot_Net_Grid_App.exe.config
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\bin\Debug\ADO_Dot_Net_Grid_App.exe
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\bin\Debug\ADO_Dot_Net_Grid_App.pdb
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\obj\Debug\ADO_Dot_Net_Grid_App.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\obj\Debug\ADO_Dot_Net_Grid_App.Form1.resources
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\obj\Debug\ADO_Dot_Net_Grid_App.Properties.Resources.resources
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\obj\Debug\ADO_Dot_Net_Grid_App.csproj.GenerateResource.cache
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\obj\Debug\ADO_Dot_Net_Grid_App.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\obj\Debug\ADO_Dot_Net_Grid_App.exe
+C:\Users\Shubhankar Shubham\source\repos\ADO_Dot_Net_Grid_App\ADO_Dot_Net_Grid_App\obj\Debug\ADO_Dot_Net_Grid_App.pdb

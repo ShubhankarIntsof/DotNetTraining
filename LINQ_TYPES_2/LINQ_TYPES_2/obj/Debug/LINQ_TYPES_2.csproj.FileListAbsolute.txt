@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\LINQ_TYPES_2\LINQ_TYPES_2\bin\Debug\LINQ_TYPES_2.exe.config
+C:\Users\Shubhankar Shubham\source\repos\LINQ_TYPES_2\LINQ_TYPES_2\bin\Debug\LINQ_TYPES_2.exe
+C:\Users\Shubhankar Shubham\source\repos\LINQ_TYPES_2\LINQ_TYPES_2\bin\Debug\LINQ_TYPES_2.pdb
+C:\Users\Shubhankar Shubham\source\repos\LINQ_TYPES_2\LINQ_TYPES_2\obj\Debug\LINQ_TYPES_2.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\LINQ_TYPES_2\LINQ_TYPES_2\obj\Debug\LINQ_TYPES_2.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\LINQ_TYPES_2\LINQ_TYPES_2\obj\Debug\LINQ_TYPES_2.exe
+C:\Users\Shubhankar Shubham\source\repos\LINQ_TYPES_2\LINQ_TYPES_2\obj\Debug\LINQ_TYPES_2.pdb
