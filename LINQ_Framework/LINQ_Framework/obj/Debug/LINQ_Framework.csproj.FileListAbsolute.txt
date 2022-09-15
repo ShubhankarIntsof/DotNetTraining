@@ -1,0 +1,7 @@
+C:\Users\Shubhankar Shubham\source\repos\LINQ_Framework\LINQ_Framework\bin\Debug\LINQ_Framework.exe.config
+C:\Users\Shubhankar Shubham\source\repos\LINQ_Framework\LINQ_Framework\bin\Debug\LINQ_Framework.exe
+C:\Users\Shubhankar Shubham\source\repos\LINQ_Framework\LINQ_Framework\bin\Debug\LINQ_Framework.pdb
+C:\Users\Shubhankar Shubham\source\repos\LINQ_Framework\LINQ_Framework\obj\Debug\LINQ_Framework.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\LINQ_Framework\LINQ_Framework\obj\Debug\LINQ_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\LINQ_Framework\LINQ_Framework\obj\Debug\LINQ_Framework.exe
+C:\Users\Shubhankar Shubham\source\repos\LINQ_Framework\LINQ_Framework\obj\Debug\LINQ_Framework.pdb
