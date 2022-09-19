@@ -24,6 +24,7 @@ namespace SELF_CRUD_2.Controllers
         {
             return View();
         }
+
         [HttpPost]
         public async Task<IActionResult> Create(Employee employee)
         {
@@ -34,6 +35,56 @@ namespace SELF_CRUD_2.Controllers
                 return RedirectToAction("Index");
 
             }return View(employee);
+        }
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null)
+            {
+                return RedirectToAction("Index");
+            }
+            var getempdetails = await _db.EmployeeShuba.FindAsync(id);
+            return View(getempdetails);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(Employee employee)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Update(employee);
+                await _db.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            return View(employee);
+        }
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+            {
+                return RedirectToAction("Index");
+            }
+            var getempdetails = await _db.EmployeeShuba.FindAsync(id);
+            return View(getempdetails);
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+            {
+                return RedirectToAction("Index");
+            }
+            var getempdetails = await _db.EmployeeShuba.FindAsync(id);
+            return View(getempdetails);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var getempdetails = await _db.EmployeeShuba.FindAsync(id);
+            _db.EmployeeShuba.Remove(getempdetails);
+            await _db.SaveChangesAsync();
+            return RedirectToAction("Index");
+            
+            
         }
     }
 }
