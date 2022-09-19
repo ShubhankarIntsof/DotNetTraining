@@ -10,8 +10,7 @@ namespace DotNetCore_Web_Api.Models
     {
         public EmployeeContext() : base("Data Source=192.168.1.230;Initial Catalog=Freshers_Training2022;Persist Security Info=True;User ID=trainee2022;Password=trainee@2022")
         {
-
-
+            
         }
         public DbSet<Employee> Employees { get; set; }
     }

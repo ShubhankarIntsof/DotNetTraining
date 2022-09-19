@@ -1,0 +1,136 @@
+﻿<div class="col-md-12">
+    <div class="panel-default- panel-primary">
+        <div class="panel-heading">
+            <h3 class="panel-title">Please Enter the Details Below</h3>
+        </div>
+        <div class="panel-body">
+            <div>
+                <div class="form-group col-md-5">
+                    <label>Student Name</label>
+                    <input type="text" name="StudentName" id="StudentName"
+                           class="form-control" placeholder="Enter Students Name" required="" />
+
+
+                </div>
+                <div class="form-group col-md-5">
+
+                    <label>Student Address</label>
+                    <input type="text" name="StudentAddress" id="StudentAddress"
+                           class="form-control" placeholder="Enter Students Address" required="" />
+                </div>
+                <div id="btnSave">
+                    <input class="btn btn-primary" type="button" name="Submit Button" value="Save" id="clickable" style="float:left; margin-top:20px" />
+                </div>
+            </div>
+
+            <div>
+                <table id="tblStudent" class="table table-bordered table-responsive table-hover">
+                    <thead>
+                        <tr>
+                            <th class="studentth" align="left">ID</th>
+                            <th class="studentth" align="left">Student Name</th>
+                            <th class="studentth" align="left">Student Address</th>
+
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+        $("#clickable").click(function () {
+
+            //alert("Load Function Called");
+
+            //LoadData();
+
+            //var person = {
+            //    "StudentName": $("#StudentName").val(),
+            //    "StudentAddress": $("#StudentAddress").val()
+               
+
+            //}
+
+            var std = {}
+
+            std.StudentName = $("StudentName").val();
+            std.StudentAddress = $("StudentAddress").val();
+            $.ajax({
+
+                    type: "POST",
+                    url: '@Url.Action("CreateStudent")',
+                data:JSON.toString(std),
+                    dataType: "json",
+                    contentType: "application/json; charset = utf-8",
+                    success: function () {
+                        alert("data has been added successfully");
+                        LoadData();
+                    },
+                     failure: function (response) {
+                        alert(response.Message + response.error);
+                    },
+                    error: function (response) {
+                            alert(response.Message + response.error);
+                     }
+
+            });
+            return false;
+
+        });
+
+        @*$(function () {
+            LoadData();
+            $("#btnSave").click(function () {
+                alert("Load Function Called");
+                var std = {}
+                std.studentName = $("StudentName").val();
+                std.studentAddress = $("StudentAddress").val();
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("createStudent")',
+                    data: 'std:' + JSON.stringify(std) + '}',
+                    dataType: "json",
+                    contentType: "application/json : charset = utf-8",
+                    success: function () {
+                        alert("data has been added successfully");
+                        LoadData();
+                    },
+                    error: function () {
+                        alert("Error")
+                    }
+
+                });
+                return false;
+            });
+
+        });*@
+        function LoadData() {
+            $('#tblStudent tbody tr').remove();
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetStudent")',
+                dataType: 'json',
+                data: { id: '' },
+                success: function (i, item) {
+                    var rows = "<td> < td class='studentth' align = 'left'; >" + item.id + "</td > <td class='studentth' align='left' >" + item.studentName + " < /td> <td class='studentth' align='left' >" + item.studentAddress + "</td></tr >";
+                    $('#tblStudent tbody').append(rows);
+
+                },
+                error: function (ex) {
+                    var err = jQuery.parseJSON(Response.Response);
+                    alert("Message: " + err.Message);
+                }
+            });
+            return false;
+
+
+        }
+    </script>
+
+
+}
+
