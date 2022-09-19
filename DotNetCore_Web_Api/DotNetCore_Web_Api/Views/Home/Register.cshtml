@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In Built Html</title>
+</head>
+<body>
+
+    <div style="background-color:burlywood">
+        <h2>@Html.Label("FirstName","First Name")</h2>
+        <h2>@Html.TextBox("textFirstName"," ",new {@class = "form-control",PlaceHolder = "First Name" })</h2>
+    </div>
+    
+
+</body>
+</html>
+
