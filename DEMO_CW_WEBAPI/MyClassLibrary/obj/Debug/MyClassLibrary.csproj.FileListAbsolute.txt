@@ -1,0 +1,12 @@
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\bin\Debug\MyClassLibrary.dll.config
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CopyComplete
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Shubhankar Shubham\source\repos\DEMO_CW_WEBAPI\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
