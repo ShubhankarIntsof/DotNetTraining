@@ -1,0 +1,32 @@
+﻿
+@model DEMO_FrontEnd.Models.EmployeeModel
+
+
+
+<h2>U re in Index</h2>
+<div align="center" class="table-bordered">
+    <table>
+        <tr class="btn_primary">
+            <th>Employee Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Address</th>
+            <th>Email</th>
+
+        </tr>
+
+
+        @foreach (var e in ViewBag.list)
+        {
+            <tr>@e.Id</tr>
+            <tr>@e.FirstName</tr>
+            <tr>@e.LastName</tr>
+            <tr>@e.Address</tr>
+            <tr>@e.Email</tr>
+
+        }
+
+    </table>
+</div>
+
+

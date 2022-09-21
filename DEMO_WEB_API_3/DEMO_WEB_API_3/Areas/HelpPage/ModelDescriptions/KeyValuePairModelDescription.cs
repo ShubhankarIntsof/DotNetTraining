@@ -1,0 +1,9 @@
+namespace DEMO_WEB_API_3.Areas.HelpPage.ModelDescriptions
+{
+    public class KeyValuePairModelDescription : ModelDescription
+    {
+        public ModelDescription KeyModelDescription { get; set; }
+
+        public ModelDescription ValueModelDescription { get; set; }
+    }
+}

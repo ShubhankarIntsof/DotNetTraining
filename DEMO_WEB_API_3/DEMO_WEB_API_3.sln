@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMO_WEB_API_3", "DEMO_WEB_API_3\DEMO_WEB_API_3.csproj", "{68AF8C4F-19A6-4444-B233-F027AFDAC023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMO_FrontEnd", "DEMO_FrontEnd\DEMO_FrontEnd.csproj", "{D50F6A89-4E57-4EE4-AFB5-053D11D30A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68AF8C4F-19A6-4444-B233-F027AFDAC023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AF8C4F-19A6-4444-B233-F027AFDAC023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AF8C4F-19A6-4444-B233-F027AFDAC023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AF8C4F-19A6-4444-B233-F027AFDAC023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50F6A89-4E57-4EE4-AFB5-053D11D30A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50F6A89-4E57-4EE4-AFB5-053D11D30A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50F6A89-4E57-4EE4-AFB5-053D11D30A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50F6A89-4E57-4EE4-AFB5-053D11D30A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DBA257-44C4-41A9-B7AE-C42A7086BE1F}
+	EndGlobalSection
+EndGlobal
