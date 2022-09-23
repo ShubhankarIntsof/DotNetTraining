@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Employee2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Form_Department">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DepartmentName" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Form_Employee">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" />
+          <Property Name="Gender" Type="char" MaxLength="10" />
+          <Property Name="Age" Type="int" />
+          <Property Name="Position" Type="nvarchar" MaxLength="50" />
+          <Property Name="Office" Type="nvarchar" MaxLength="50" />
+          <Property Name="HireDate" Type="datetime" />
+          <Property Name="Salary" Type="int" />
+          <Property Name="DepartmentId" Type="int" />
+        </EntityType>
+        <EntityType Name="Form_Roles">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RoleName" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Form_UserRolesMapping">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserId" Type="int" />
+          <Property Name="RoleId" Type="int" />
+        </EntityType>
+        <EntityType Name="Form_Users">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" MaxLength="50" />
+          <Property Name="Password" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK__Form_Empl__Depar__5AC530DE">
+          <End Role="Form_Department" Type="Self.Form_Department" Multiplicity="0..1" />
+          <End Role="Form_Employee" Type="Self.Form_Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Department">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_Employee">
+              <PropertyRef Name="DepartmentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Form_User__RoleI__5F89E5FB">
+          <End Role="Form_Roles" Type="Self.Form_Roles" Multiplicity="0..1" />
+          <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Roles">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_UserRolesMapping">
+              <PropertyRef Name="RoleId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Form_User__RoleI__607E0A34">
+          <End Role="Form_Roles" Type="Self.Form_Roles" Multiplicity="0..1" />
+          <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Roles">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_UserRolesMapping">
+              <PropertyRef Name="RoleId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Form_User__UserI__61722E6D">
+          <End Role="Form_Users" Type="Self.Form_Users" Multiplicity="0..1" />
+          <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Users">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_UserRolesMapping">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Employee2ModelStoreContainer">
+          <EntitySet Name="Form_Department" EntityType="Self.Form_Department" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Form_Employee" EntityType="Self.Form_Employee" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Form_Roles" EntityType="Self.Form_Roles" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Form_UserRolesMapping" EntityType="Self.Form_UserRolesMapping" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Form_Users" EntityType="Self.Form_Users" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Form_Empl__Depar__5AC530DE" Association="Self.FK__Form_Empl__Depar__5AC530DE">
+            <End Role="Form_Department" EntitySet="Form_Department" />
+            <End Role="Form_Employee" EntitySet="Form_Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Form_User__RoleI__5F89E5FB" Association="Self.FK__Form_User__RoleI__5F89E5FB">
+            <End Role="Form_Roles" EntitySet="Form_Roles" />
+            <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Form_User__RoleI__607E0A34" Association="Self.FK__Form_User__RoleI__607E0A34">
+            <End Role="Form_Roles" EntitySet="Form_Roles" />
+            <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Form_User__UserI__61722E6D" Association="Self.FK__Form_User__UserI__61722E6D">
+            <End Role="Form_Users" EntitySet="Form_Users" />
+            <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Employee2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Form_Department">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DepartmentName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Form_Employee" Relationship="Self.FK__Form_Empl__Depar__5AC530DE" FromRole="Form_Department" ToRole="Form_Employee" />
+        </EntityType>
+        <EntityType Name="Form_Employee">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Gender" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Age" Type="Int32" />
+          <Property Name="Position" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Office" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="HireDate" Type="DateTime" Precision="3" />
+          <Property Name="Salary" Type="Int32" />
+          <Property Name="DepartmentId" Type="Int32" />
+          <NavigationProperty Name="Form_Department" Relationship="Self.FK__Form_Empl__Depar__5AC530DE" FromRole="Form_Employee" ToRole="Form_Department" />
+        </EntityType>
+        <EntityType Name="Form_Roles">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RoleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Form_UserRolesMapping" Relationship="Self.FK__Form_User__RoleI__5F89E5FB" FromRole="Form_Roles" ToRole="Form_UserRolesMapping" />
+          <NavigationProperty Name="Form_UserRolesMapping1" Relationship="Self.FK__Form_User__RoleI__607E0A34" FromRole="Form_Roles" ToRole="Form_UserRolesMapping" />
+        </EntityType>
+        <EntityType Name="Form_UserRolesMapping">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserId" Type="Int32" />
+          <Property Name="RoleId" Type="Int32" />
+          <NavigationProperty Name="Form_Roles" Relationship="Self.FK__Form_User__RoleI__5F89E5FB" FromRole="Form_UserRolesMapping" ToRole="Form_Roles" />
+          <NavigationProperty Name="Form_Roles1" Relationship="Self.FK__Form_User__RoleI__607E0A34" FromRole="Form_UserRolesMapping" ToRole="Form_Roles" />
+          <NavigationProperty Name="Form_Users" Relationship="Self.FK__Form_User__UserI__61722E6D" FromRole="Form_UserRolesMapping" ToRole="Form_Users" />
+        </EntityType>
+        <EntityType Name="Form_Users">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Form_UserRolesMapping" Relationship="Self.FK__Form_User__UserI__61722E6D" FromRole="Form_Users" ToRole="Form_UserRolesMapping" />
+        </EntityType>
+        <Association Name="FK__Form_Empl__Depar__5AC530DE">
+          <End Role="Form_Department" Type="Self.Form_Department" Multiplicity="0..1" />
+          <End Role="Form_Employee" Type="Self.Form_Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Department">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_Employee">
+              <PropertyRef Name="DepartmentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Form_User__RoleI__5F89E5FB">
+          <End Role="Form_Roles" Type="Self.Form_Roles" Multiplicity="0..1" />
+          <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Roles">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_UserRolesMapping">
+              <PropertyRef Name="RoleId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Form_User__RoleI__607E0A34">
+          <End Role="Form_Roles" Type="Self.Form_Roles" Multiplicity="0..1" />
+          <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Roles">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_UserRolesMapping">
+              <PropertyRef Name="RoleId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Form_User__UserI__61722E6D">
+          <End Role="Form_Users" Type="Self.Form_Users" Multiplicity="0..1" />
+          <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Form_Users">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Form_UserRolesMapping">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Employee2Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Form_Department" EntityType="Self.Form_Department" />
+          <EntitySet Name="Form_Employee" EntityType="Self.Form_Employee" />
+          <EntitySet Name="Form_Roles" EntityType="Self.Form_Roles" />
+          <EntitySet Name="Form_UserRolesMapping" EntityType="Self.Form_UserRolesMapping" />
+          <EntitySet Name="Form_Users" EntityType="Self.Form_Users" />
+          <AssociationSet Name="FK__Form_Empl__Depar__5AC530DE" Association="Self.FK__Form_Empl__Depar__5AC530DE">
+            <End Role="Form_Department" EntitySet="Form_Department" />
+            <End Role="Form_Employee" EntitySet="Form_Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Form_User__RoleI__5F89E5FB" Association="Self.FK__Form_User__RoleI__5F89E5FB">
+            <End Role="Form_Roles" EntitySet="Form_Roles" />
+            <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Form_User__RoleI__607E0A34" Association="Self.FK__Form_User__RoleI__607E0A34">
+            <End Role="Form_Roles" EntitySet="Form_Roles" />
+            <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Form_User__UserI__61722E6D" Association="Self.FK__Form_User__UserI__61722E6D">
+            <End Role="Form_Users" EntitySet="Form_Users" />
+            <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Employee2ModelStoreContainer" CdmEntityContainer="Employee2Entities">
+          <EntitySetMapping Name="Form_Department">
+            <EntityTypeMapping TypeName="Employee2Model.Form_Department">
+              <MappingFragment StoreEntitySet="Form_Department">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="DepartmentName" ColumnName="DepartmentName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Form_Employee">
+            <EntityTypeMapping TypeName="Employee2Model.Form_Employee">
+              <MappingFragment StoreEntitySet="Form_Employee">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="Age" ColumnName="Age" />
+                <ScalarProperty Name="Position" ColumnName="Position" />
+                <ScalarProperty Name="Office" ColumnName="Office" />
+                <ScalarProperty Name="HireDate" ColumnName="HireDate" />
+                <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="DepartmentId" ColumnName="DepartmentId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Form_Roles">
+            <EntityTypeMapping TypeName="Employee2Model.Form_Roles">
+              <MappingFragment StoreEntitySet="Form_Roles">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Form_UserRolesMapping">
+            <EntityTypeMapping TypeName="Employee2Model.Form_UserRolesMapping">
+              <MappingFragment StoreEntitySet="Form_UserRolesMapping">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Form_Users">
+            <EntityTypeMapping TypeName="Employee2Model.Form_Users">
+              <MappingFragment StoreEntitySet="Form_Users">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

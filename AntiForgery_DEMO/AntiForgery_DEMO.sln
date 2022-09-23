@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiForgery_DEMO", "AntiForgery_DEMO\AntiForgery_DEMO.csproj", "{BD6B5E8D-CD03-4535-9260-B3CD3F127250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD6B5E8D-CD03-4535-9260-B3CD3F127250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6B5E8D-CD03-4535-9260-B3CD3F127250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6B5E8D-CD03-4535-9260-B3CD3F127250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6B5E8D-CD03-4535-9260-B3CD3F127250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1830E42-D582-4585-B185-695B64906EAE}
+	EndGlobalSection
+EndGlobal

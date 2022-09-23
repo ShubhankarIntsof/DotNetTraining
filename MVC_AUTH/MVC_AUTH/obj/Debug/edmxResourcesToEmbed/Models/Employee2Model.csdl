@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Employee2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Form_Department">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DepartmentName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Form_Employee" Relationship="Self.FK__Form_Empl__Depar__5AC530DE" FromRole="Form_Department" ToRole="Form_Employee" />
+  </EntityType>
+  <EntityType Name="Form_Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Position" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Office" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="HireDate" Type="DateTime" Precision="3" />
+    <Property Name="Salary" Type="Int32" />
+    <Property Name="DepartmentId" Type="Int32" />
+    <NavigationProperty Name="Form_Department" Relationship="Self.FK__Form_Empl__Depar__5AC530DE" FromRole="Form_Employee" ToRole="Form_Department" />
+  </EntityType>
+  <EntityType Name="Form_Roles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Form_UserRolesMapping" Relationship="Self.FK__Form_User__RoleI__5F89E5FB" FromRole="Form_Roles" ToRole="Form_UserRolesMapping" />
+    <NavigationProperty Name="Form_UserRolesMapping1" Relationship="Self.FK__Form_User__RoleI__607E0A34" FromRole="Form_Roles" ToRole="Form_UserRolesMapping" />
+  </EntityType>
+  <EntityType Name="Form_UserRolesMapping">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="RoleId" Type="Int32" />
+    <NavigationProperty Name="Form_Roles" Relationship="Self.FK__Form_User__RoleI__5F89E5FB" FromRole="Form_UserRolesMapping" ToRole="Form_Roles" />
+    <NavigationProperty Name="Form_Roles1" Relationship="Self.FK__Form_User__RoleI__607E0A34" FromRole="Form_UserRolesMapping" ToRole="Form_Roles" />
+    <NavigationProperty Name="Form_Users" Relationship="Self.FK__Form_User__UserI__61722E6D" FromRole="Form_UserRolesMapping" ToRole="Form_Users" />
+  </EntityType>
+  <EntityType Name="Form_Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Form_UserRolesMapping" Relationship="Self.FK__Form_User__UserI__61722E6D" FromRole="Form_Users" ToRole="Form_UserRolesMapping" />
+  </EntityType>
+  <Association Name="FK__Form_Empl__Depar__5AC530DE">
+    <End Role="Form_Department" Type="Self.Form_Department" Multiplicity="0..1" />
+    <End Role="Form_Employee" Type="Self.Form_Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Form_Department">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Form_Employee">
+        <PropertyRef Name="DepartmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Form_User__RoleI__5F89E5FB">
+    <End Role="Form_Roles" Type="Self.Form_Roles" Multiplicity="0..1" />
+    <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Form_Roles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Form_UserRolesMapping">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Form_User__RoleI__607E0A34">
+    <End Role="Form_Roles" Type="Self.Form_Roles" Multiplicity="0..1" />
+    <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Form_Roles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Form_UserRolesMapping">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Form_User__UserI__61722E6D">
+    <End Role="Form_Users" Type="Self.Form_Users" Multiplicity="0..1" />
+    <End Role="Form_UserRolesMapping" Type="Self.Form_UserRolesMapping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Form_Users">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Form_UserRolesMapping">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Employee2Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Form_Department" EntityType="Self.Form_Department" />
+    <EntitySet Name="Form_Employee" EntityType="Self.Form_Employee" />
+    <EntitySet Name="Form_Roles" EntityType="Self.Form_Roles" />
+    <EntitySet Name="Form_UserRolesMapping" EntityType="Self.Form_UserRolesMapping" />
+    <EntitySet Name="Form_Users" EntityType="Self.Form_Users" />
+    <AssociationSet Name="FK__Form_Empl__Depar__5AC530DE" Association="Self.FK__Form_Empl__Depar__5AC530DE">
+      <End Role="Form_Department" EntitySet="Form_Department" />
+      <End Role="Form_Employee" EntitySet="Form_Employee" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Form_User__RoleI__5F89E5FB" Association="Self.FK__Form_User__RoleI__5F89E5FB">
+      <End Role="Form_Roles" EntitySet="Form_Roles" />
+      <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Form_User__RoleI__607E0A34" Association="Self.FK__Form_User__RoleI__607E0A34">
+      <End Role="Form_Roles" EntitySet="Form_Roles" />
+      <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Form_User__UserI__61722E6D" Association="Self.FK__Form_User__UserI__61722E6D">
+      <End Role="Form_Users" EntitySet="Form_Users" />
+      <End Role="Form_UserRolesMapping" EntitySet="Form_UserRolesMapping" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
