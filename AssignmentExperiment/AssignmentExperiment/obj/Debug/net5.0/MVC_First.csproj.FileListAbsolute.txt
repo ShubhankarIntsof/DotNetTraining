@@ -144,3 +144,8 @@ C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperime
 C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\obj\Debug\net5.0\Razor\Views\Addresses\Create.cshtml.g.cs
+C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\obj\Debug\net5.0\Razor\Views\Addresses\Delete.cshtml.g.cs
+C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\obj\Debug\net5.0\Razor\Views\Addresses\Details.cshtml.g.cs
+C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\obj\Debug\net5.0\Razor\Views\Addresses\Edit.cshtml.g.cs
+C:\Users\Shubhankar Shubham\source\repos\AssignmentExperiment\AssignmentExperiment\obj\Debug\net5.0\Razor\Views\Addresses\Index.cshtml.g.cs

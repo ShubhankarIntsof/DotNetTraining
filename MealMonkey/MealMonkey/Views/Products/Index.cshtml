@@ -20,9 +20,11 @@
         <div class="card" style="display: flex; flex-direction:column; justify-content: space-between";>
             <img src=" @Html.DisplayFor(modelItem => item.ImageUrl)" style="width: 270px;" alt="...">
             <div class="card-body" style="align-items:center">
-                <h5 class="card-title" >@Html.DisplayFor(modelItem => item.Name)</h5>
-                <p class="card-text" >@Html.DisplayFor(modelItem => item.Description)</p>
-                <a href="#" class="btn btn-primary" >Order Now</a>
+                <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h5>
+                <p class="card-text">@Html.DisplayFor(modelItem => item.Description)</p>
+
+                <p class="card-text">₹  @Html.DisplayFor(modelItem => item.Price)</p>
+                @Html.ActionLink("Order Now", "Details", new { id = item.ProductId })
             </div>
         </div>
 

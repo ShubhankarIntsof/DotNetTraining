@@ -58,8 +58,8 @@ namespace MealMonkey.Controllers
             return View(mM_Products);
         }
 
-        // GET: Products/Edit/5
-        public ActionResult Edit(int? id)
+        // GET: Products/Cart/5
+        public ActionResult Cart(int? id)
         {
             if (id == null)
             {
@@ -73,12 +73,12 @@ namespace MealMonkey.Controllers
             return View(mM_Products);
         }
 
-        // POST: Products/Edit/5
+        // POST: Products/Cart/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ProductId,Name,Description,Price,Quantity,ImageUrl,CategoryId,IsActive,CreatedDate")] MM_Products mM_Products)
+        public ActionResult Cart([Bind(Include = "ProductId,Name,Description,Price,Quantity,ImageUrl,CategoryId,IsActive,CreatedDate")] MM_Products mM_Products)
         {
             if (ModelState.IsValid)
             {

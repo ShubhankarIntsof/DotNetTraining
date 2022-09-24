@@ -23,6 +23,7 @@ namespace MVC_First.Controllers
         {
             var adventureWorks2017Context = _context.Addresses.Include(a => a.StateProvince);
             return View(await adventureWorks2017Context.ToListAsync());
+
         }
 
         // GET: Addresses/Details/5
@@ -34,7 +35,7 @@ namespace MVC_First.Controllers
             }
 
             var address = await _context.Addresses
-                .Include(a => a.StateProvince)
+                //.Include(a => a.StateProvince)
                 .FirstOrDefaultAsync(m => m.AddressId == id);
             if (address == null)
             {
@@ -125,7 +126,7 @@ namespace MVC_First.Controllers
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
-            {
+            { 
                 return NotFound();
             }
 
@@ -149,7 +150,7 @@ namespace MVC_First.Controllers
             _context.Addresses.Remove(address);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
-        }
+        }                
 
         private bool AddressExists(int id)
         {
