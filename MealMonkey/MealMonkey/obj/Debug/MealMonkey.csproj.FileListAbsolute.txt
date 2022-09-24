@@ -101,8 +101,12 @@ C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\Microsoft.Owi
 C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\obj\Debug\MealMonkey.csproj.AssemblyReference.cache
 C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\obj\Debug\MealMonkey.csproj.CoreCompileInputs.cache
 C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\obj\Debug\MealMonkey.csproj.CopyComplete
 C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\obj\Debug\MealMonkey.dll
 C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\obj\Debug\MealMonkey.pdb
+C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\obj\Debug\MealMonkey.csproj.AssemblyReference.cache
+C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\xunit.abstractions.dll
+C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\xunit.core.dll
+C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\xunit.abstractions.xml
+C:\Users\Shubhankar Shubham\source\repos\MealMonkey\MealMonkey\bin\xunit.core.xml

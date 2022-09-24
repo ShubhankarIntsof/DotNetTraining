@@ -2,17 +2,22 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
+using System.Dynamic;
 using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using MealMonkey.Models;
+using MealMonkey.ViewModel;
+using Microsoft.AspNet.Identity;
 
 namespace MealMonkey.Controllers
 {
     public class ProductsController : Controller
     {
+        private masterEntities mdb = new masterEntities();
         private ProductEntities db = new ProductEntities();
+
 
         // GET: Products
         public ActionResult Index()
@@ -32,6 +37,9 @@ namespace MealMonkey.Controllers
             {
                 return HttpNotFound();
             }
+            TempData["ProductId"] = id;
+            //TempData["UserId"] = User.Identity.GetUserId();
+            TempData["UserId"] = 33;
             return View(mM_Products);
         }
 
@@ -58,19 +66,38 @@ namespace MealMonkey.Controllers
             return View(mM_Products);
         }
 
+        public ActionResult CartTable()
+        {
+            dynamic dy = new ExpandoObject();
+            dy.Carts = getCarts();
+            dy.Products = getProducts();
+
+
+
+  
+
+            return View(dy); 
+        }
+        //Helping Methods
+        public List<MM_Carts> getCarts()
+        {
+            List<MM_Carts> Carts = mdb.MM_Carts.ToList();
+            return Carts;
+
+        }
+        public List<MM_Products> getProducts()
+        {
+            List<MM_Products> Products = db.MM_Products.ToList();
+            return Products;
+
+        }
+        //Edit Converted to cart
         // GET: Products/Cart/5
+
+        //Create cart
         public ActionResult Cart(int? id)
         {
-            if (id == null)
-            {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-            }
-            MM_Products mM_Products = db.MM_Products.Find(id);
-            if (mM_Products == null)
-            {
-                return HttpNotFound();
-            }
-            return View(mM_Products);
+            return View();
         }
 
         // POST: Products/Cart/5
@@ -78,17 +105,37 @@ namespace MealMonkey.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Cart([Bind(Include = "ProductId,Name,Description,Price,Quantity,ImageUrl,CategoryId,IsActive,CreatedDate")] MM_Products mM_Products)
+        public ActionResult Cart([Bind(Include ="Cartid,Productid,Quantity,UserId")] MM_Carts mM_Carts)
         {
+            MM_Carts temp = new MM_Carts();
+
+
             if (ModelState.IsValid)
             {
-                db.Entry(mM_Products).State = EntityState.Modified;
-                db.SaveChanges();
+                temp.ProductId = Convert.ToInt32( TempData["ProductId"]);
+                temp.UserId = Convert.ToInt32(TempData["UserId"] );
+                temp.CartId = mM_Carts.CartId;
+                temp.Quantity = mM_Carts.Quantity;
+                
+
+                mdb.MM_Carts.Add(temp);
+                
+                
+                mdb.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(mM_Products);
-        }
 
+            return View(mM_Carts);
+        }
+        // GET: Products/CartDelete/5
+        public ActionResult CartDelete(int? id)
+        {
+            MM_Carts mM_Cart = mdb.MM_Carts.Find(id);
+            mdb.MM_Carts.Remove(mM_Cart);
+            mdb.SaveChanges();
+            return RedirectToAction("CartTable");
+            
+        }
         // GET: Products/Delete/5
         public ActionResult Delete(int? id)
         {
