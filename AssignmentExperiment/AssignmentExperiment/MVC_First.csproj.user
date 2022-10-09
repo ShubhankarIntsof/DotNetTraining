@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>MVC_First.AdventureWorks2017Context</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+	<TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 </Project>
